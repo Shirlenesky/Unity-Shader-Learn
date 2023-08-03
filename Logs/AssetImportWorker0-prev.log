@@ -1,0 +1,210 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.3f1c1 (a34b99c2c582) revision 10701721'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19044.2006; Version 2009; 64bit' Language: 'zh' Physical Memory: 7549 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\UnityVersion\2020.3.3f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/unity/Shader Learn
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63943
+Successfully changed project path to: F:/unity/Shader Learn
+F:/unity/Shader Learn
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1c1 (a34b99c2c582)
+[Subsystems] Discovering subsystems at path E:/UnityVersion/2020.3.3f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/unity/Shader Learn/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'E:/UnityVersion/2020.3.3f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityVersion/2020.3.3f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/UnityVersion/2020.3.3f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityVersion/2020.3.3f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002398 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1166 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 2.632300 ms (FindLiveObjects: 0.491400 ms CreateObjectMapping: 0.110300 ms MarkObjects: 1.887900 ms  DeleteObjects: 0.139900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）
+  artifactKey: Guid(f09effcba228bf34cae95d456ea36acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版） using Guid(f09effcba228bf34cae95d456ea36acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e5c0574148b914ba48eb910cfefdaa') in 0.003586 seconds
+  Import took 0.006281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.506865 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/使用规则.txt
+  artifactKey: Guid(afbaa5fbd974e8a43a4e45a4a0b00b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/使用规则.txt using Guid(afbaa5fbd974e8a43a4e45a4a0b00b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972aae0a82c5604b8152c010a878c4e5') in 0.042404 seconds
+  Import took 0.045584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.927517 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/丽芙_仰光_深海少女1.25 .pmx
+  artifactKey: Guid(bf45fe860065f284b8df038dac359bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/丽芙_仰光_深海少女1.25 .pmx using Guid(bf45fe860065f284b8df038dac359bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0348bb06ba7476225f969cc134d2c0b5') in 0.005928 seconds
+  Import took 0.009076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.701584 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc1.png
+  artifactKey: Guid(4c7a4b46e04458e40b9a5ee2b3d88a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc1.png using Guid(4c7a4b46e04458e40b9a5ee2b3d88a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269879f1c44e243b4077dc7e16063902') in 0.095544 seconds
+  Import took 0.098467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.649968 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/cheek_00.tga
+  artifactKey: Guid(1e7c69c821b94e34c99168a6cab3383d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/cheek_00.tga using Guid(1e7c69c821b94e34c99168a6cab3383d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2216ff9c1a32b474e921344300cbcbbb') in 0.030045 seconds
+  Import took 0.033079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.349219 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Body.png
+  artifactKey: Guid(dd7ef54117eba534188b320eda3ad279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Body.png using Guid(dd7ef54117eba534188b320eda3ad279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90637a8a647e318e90b262771808d2a') in 0.013727 seconds
+  Import took 0.016098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.381327 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Skirt.png
+  artifactKey: Guid(3de9180359aacf34baa5fe80a4361a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Skirt.png using Guid(3de9180359aacf34baa5fe80a4361a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a648a06bca4f8c42a53316900ef080') in 0.016828 seconds
+  Import took 0.020163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.696325 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw
+  artifactKey: Guid(8564df19743b3764f9e51068d44c4268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw using Guid(8564df19743b3764f9e51068d44c4268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1348da4640448c3b0cd7f50c2d69296d') in 0.006583 seconds
+  Import took 0.009298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.183996 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Eye.png
+  artifactKey: Guid(e7ff694608f563443a26a1510a35072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Eye.png using Guid(e7ff694608f563443a26a1510a35072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26bbec89b4f90a37c451a390cef7461f') in 0.008334 seconds
+  Import took 0.011455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002429 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Eye.png
+  artifactKey: Guid(e7ff694608f563443a26a1510a35072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Eye.png using Guid(e7ff694608f563443a26a1510a35072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26bbec89b4f90a37c451a390cef7461f') in 0.007109 seconds
+  Import took 0.009952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.576811 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Cloth.png
+  artifactKey: Guid(9e4c3c9dd446f4342a11e0dfb287f8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Cloth.png using Guid(9e4c3c9dd446f4342a11e0dfb287f8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b221f445a66365e935fb7eb86374513b') in 0.011486 seconds
+  Import took 0.015105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.493184 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc12.png
+  artifactKey: Guid(83f74cae6aa618f4382a811144a8bc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc12.png using Guid(83f74cae6aa618f4382a811144a8bc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75637c55cdbf3b39f0288b93117d81de') in 0.010962 seconds
+  Import took 0.013601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.928492 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc3.png
+  artifactKey: Guid(6d513c0107850ae489fcd7d1d3ae5eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/mc3.png using Guid(6d513c0107850ae489fcd7d1d3ae5eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768b076ce3d623225f5917a48e4ef1c9') in 0.011860 seconds
+  Import took 0.015186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429140 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/heartby1010浣.png
+  artifactKey: Guid(bdaa16a9b6c06644f9c34e10d787fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/heartby1010浣.png using Guid(bdaa16a9b6c06644f9c34e10d787fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a982b8aecd13ee17513a5a774aa40d') in 0.011455 seconds
+  Import took 0.014367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.273662 seconds.
+  path: Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Face.png
+  artifactKey: Guid(870060ca0d941ed4599a164e1affd40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/丽芙_仰光_泳裝1.12（签名去除整理最终版）/lifu sw/R3Lifu01916Face.png using Guid(870060ca0d941ed4599a164e1affd40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a47d5d21a6d8f55ea332d8a674df9a') in 0.013106 seconds
+  Import took 0.015757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.896066 seconds.
+  path: Assets/Material/Rin/cheek_00.tga
+  artifactKey: Guid(2dfc17a2242a3de43a7a6dce6d652e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/cheek_00.tga using Guid(2dfc17a2242a3de43a7a6dce6d652e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9496e8dd905cdd0588f197d51af29a8') in 0.005893 seconds
+  Import took 0.009558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001022 seconds.
+  path: Assets/Material/Rin/cheek_00.tga
+  artifactKey: Guid(2dfc17a2242a3de43a7a6dce6d652e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Rin/cheek_00.tga using Guid(2dfc17a2242a3de43a7a6dce6d652e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9496e8dd905cdd0588f197d51af29a8') in 0.005285 seconds
+  Import took 0.008236 seconds .
+
