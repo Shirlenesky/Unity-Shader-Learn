@@ -9,4 +9,4 @@ Phong 和 BlinnPhong 消融效果
 玻璃效果
 ![](https://github.com/Shirlenesky/Unity-Shader-Learn/blob/main/images/glass.png)
 法线贴图
-![](https://github.com/Shirlenesky/Unity-Shader-Learn/blob/main/images/glass.png)
+![](https://github.com/Shirlenesky/Unity-Shader-Learn/blob/main/images/normalmap.png)
